@@ -1,0 +1,8 @@
+test-output/*
+*.zip
+target/*
+*.DS_Store
+.DS_Store
+/target/
+.settings/*
+test-output/

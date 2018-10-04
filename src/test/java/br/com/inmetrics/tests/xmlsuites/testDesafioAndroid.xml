@@ -1,0 +1,15 @@
+<!-- <suite name = "Desafio">
+ 
+   <test name = "CT001 - Validar Login na Aplicação">
+      <classes>
+         <class name = "com.br.inmetrics.tests.android.TestLogin" >
+         	<methods>
+        			<include name="CT001_ValidarLogin" />
+        	 	</methods>
+        	 </class>
+      </classes>
+   </test>
+   <listeners>
+        <listener class-name="com.br.inmetrics.frm.testng.CustomListener" />
+   </listeners>   
+</suite> -->
