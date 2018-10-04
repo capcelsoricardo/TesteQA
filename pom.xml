@@ -218,5 +218,12 @@
 			<artifactId>automation</artifactId>
 			<version>0.0.5</version>
 		</dependency>
+		<dependency>
+			<groupId>com.br.inmetrics.frm</groupId>
+			<artifactId>automation</artifactId>
+			<version>0.0.5</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/automation-0.0.5.jar</systemPath>
+		</dependency>
 	</dependencies>
 </project>
