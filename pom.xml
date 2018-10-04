@@ -213,5 +213,11 @@
 			<artifactId>reflections</artifactId>
 			<version>0.9.11</version>
 		</dependency> 
+		<dependency>
+			<groupId>com.br.inmetrics.frm</groupId>
+			<artifactId>automation</artifactId>
+			<version>0.0.5</version>
+			<scope>compile</scope>
+		</dependency>
 	</dependencies>
 </project>

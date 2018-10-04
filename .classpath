@@ -104,6 +104,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/automation-0.0.5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
